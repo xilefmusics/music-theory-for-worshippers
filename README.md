@@ -9,26 +9,26 @@ You're probably thinking music theory, pff, that's boring, that's complex, that'
 Music theory can actually be really fun and it can help you improve and simplify your playing a lot and free up some space in your head while worshipping.
 The less you have to think while playing, the more focus you can have on actually worshipping and that's what we want, right?
 Therefore I think everyone benefits a lot from some basic understanding of how music works.
-And I have good news for you, contemporary worship music is simple, yes it's really stupidly simple.
+And I have good news for you, contemporary worship music is simple, yes it's really deliberately simple.
 It's so simple it even feels dull to do when you know how complex other music can be.
 But why is this so?
 The music should support you in worshipping and get out of your way.
-Your focus should be to give all the glory to Jesus, to pour out your heart before him, to stand in awe and adoration before him and to deny yourself and follow his good plan for you and your life.
+Your focus should be to give all the glory to Jesus, to pour out your heart before him, to stand in awe and adoration before him and to surrender to his good plan for you and your life.
 Music is a gift that can help you express that and the bar should be as low as possible for everyone to join in and participate.
 I know we can praise him with complex music as well, it's a gift as well and there is so much beauty in it.
-If I hear the masterpieces of the ancient composers, my heart opens up and praise God for such beauty, but in this music not everyone can easily join in.
-Therefore I'm glad that we have this dull, primitive contemporary worship music, which in its simplicity has a lot of beauty as well and is very well suited for worshipping all together.
+If I hear the masterpieces of the ancient composers, my heart opens up and praises God for such beauty, but in this music not everyone can easily join in.
+Therefore I'm glad that we have this stripped-down contemporary worship music, which in its simplicity has a lot of beauty as well and is very well suited for worshipping all together.
 
 And since the music is simple and the bar should be low for everyone to join in, the same should hold for this course.
 So if you want a comprehensive course of all the facets of music and learn music theory the hard way, like I did, go and read a book of a few thousand lines.
 If you are a nerd like me, you probably have some fun in doing so, but for all the others I want to break it down to the most simple and most basic concepts you need to know, so that it should be easy to follow for everyone.
 
-My name is Felix and one thing you already know about me, I'm a little nerd, you will probably notice at a few places within this course.
+My name is Felix and one thing you'll quickly realize about me: I'm a little nerd, you will probably notice at a few places within this course.
 I studied computer science and therefore do think a bit mathematical from time to time.
 I've learned music theory the hard way practicing the scales, cadences and much more while learning to play the organ.
 And it was quite a challenge for me to switch from doing that complex stuff to the simplicity of contemporary worship music without overdoing it.
 The simple patterns I will show you helped me a lot in staying inside that simplicity.
-So if you are a classical pianist, organist, or whatever this course is for you as well.
+So if you are a classical pianist, organist, or whatever your background, this course is for you as well.
 You're just like me, coming from the other side.
 Let's all meet in the middle.
 
