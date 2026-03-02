@@ -25,7 +25,7 @@ If you are a nerd like me, you probably have some fun in doing so, but for all t
 
 My name is Felix and one thing you'll quickly realize about me: I'm a little nerd, you will probably notice at a few places within this course.
 I studied computer science and therefore do think a bit mathematical from time to time.
-I've learned music theory the hard way practicing the all scales, cadences, harmonies and much more like realtime harmonizing old hymns etc. while learning to play the organ.
+I've learned music theory the hard way practicing all the scales, cadences, harmonies and much more like realtime harmonizing old hymns etc. while learning to play the organ.
 And it was quite a challenge for me to switch from doing that complex stuff to the simplicity of contemporary worship music without overdoing it.
 The simple patterns I will show you helped me a lot in staying inside that simplicity.
 So if you are a classical pianist, organist, or whatever your background, this course is for you as well.
