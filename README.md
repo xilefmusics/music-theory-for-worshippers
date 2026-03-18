@@ -61,17 +61,23 @@ low or hig the sound is. That's why when you pull hard on the string it becomes 
 
 In music theory we only focus on the second dimension, how high it is. And in physics we mesure it by how often it moves back and forth per second. For example if you pull your second string on the guitar, the A string, it moves back and forth 220 times per second and we call the frequency 220 Hz (hearts). So we have indefinetely many tones we can technically produce, everything from 0 Hz to ininity. But not everything we can hear. The default person can heary everything between 20 Hz and 20k Hz. The range of a 88 key piano goes from 27,5 Hz up to 4.19k Hz. A guitar is much more limited, it goes from 82.4 Hz up to 1.39k Hz. But still in each of this ranges there are a infinite number of tones, because you can put as manny digits after the period if you want, but at some point we are no longer able to distinguishe it.
 
-But with such a rational scale it's pretty hard to do theory with. It's hard enough to do theory with the 11 different tones we have, but it's impossible to do it with an infinite amount. So we just randomly pick 11 frequencies and define that this are our tones? - That's exactly how many people think, but it's not random, it's designed into the core of physics and to understand that, we have to look into, why does a guitar sound differen than a piano, that sound different than a trunpet, that sound differen than a violine? Isn't it so, that if I play the same tone on each of these instruments they have the exact same frequency? And I even can play them with the same intensity, so they have the same volume? That's right, but why do they sound different? The answer is, that a frequency almost never comes alone, it has some other frequencies that belong to it, that are backed into physics. These are called harmonics or overtones. So if you play a tone on any instrument, not only the base frequency of this tone is produced, but an infinite amount of higher frequencies and the intensity of this higher frequencies defines the color of the tone. And that's why different instruments sound differnt, they have a different color, because their overtones are different.
+But with such a rational scale it's pretty hard to do theory with. It's hard enough to do theory with the 11 different tones we have, but it's impossible to do it with an infinite amount. So we just randomly pick 11 frequencies and define that this are our tones? - That's exactly how many people think, but it's not random, it's designed into the core of physics and to understand that, we have to look into, why does a guitar sound differen than a piano, that sound different than a trunpet, that sound differen than a violine? Isn't it so, that if I play the same tone on each of these instruments they have the exact same frequency? And I even can play them with the same intensity, so they have the same volume? That's right, but why do they sound different? The answer is, that a frequency almost never comes alone, it has some other frequencies that belong to it, that are backed into physics. These are called harmonics or overtones. So if you play a tone on any instrument, not only the base frequency of this tone is produced, but an infinite amount of higher frequencies and the intensity of this higher frequencies defines the color of the tone. And that's why different instruments sound differnt, they have a different color, because their overtones are different. And the same effect which gives the tone itself color through the overtones is the effect we use in music theory to combine tones to create color. So we have to understand the overtones and what creates the color, to make color ourselfs. I know now it get's really nerdy and I hope that you are still with me.
 
-### Perfect Fifth (3/2)
-`440 Hz` together with `660 Hz` (a perfect fifth). The red circles show where both waves hit `0` at the same time.
+The first overtone/harmonic has just double the frequency. You can see it within the following picture.
+
+<img src="./octave.svg" style="width: 100%; height: auto;" />
+
+And brings color are the points where the waves don't align. If you have double the frequency, they do align on every zero point of the base frequency, that is boring, that is almost no color. It's so boring that we even consider it the same tone in music theory. Tht's why on your piano every white key before the two black keys is called C, even though it is a different tone. The span between these two frequencies we call an octave. And now we notice the first simplification we make in music theory. If we consider every octave to a tone the same, we only have to focus on one octave, because after that everything is just repeating.
+
+But now we want some color, but the least amount of it and that we achive if not very zeropoint they do align, but every second one. And this exactly is what the second overtone/harmonic is and you can see it within the next picture.
 
 <img src="./fifth.svg" style="width: 100%; height: auto;" />
 
-### Octave (2/1)
-`440 Hz` together with `880 Hz` (an octave). The red circles show where both waves hit `0` at the same time.
+This interval we call a fifth, it's the one that provides the least possible amount of color and therefore sounds really pure. (For the ultimate nerds under us, yeah I know that the second harmonic in not a fifth to the root frequency, but rather to the first harmonic, but since we consider octaves as the same tone, it doesn't mather :)).
 
-<img src="./octave.svg" style="width: 100%; height: auto;" />
+We could go this along forever and discover all 11 notes we have, but since you are probably already bored and I don't want to wast your time we stop here, you see the pattern. The interval with the sharpest color we know is the small second. There every 15th zero point matches.
+
+<img src="./second.svg" style="width: 100%; height: auto;" />
 
 ## Chapter 1 Scales
 
