@@ -79,6 +79,12 @@ We could go this along forever and discover all 11 notes we have, but since you 
 
 <img src="./second.svg" style="width: 100%; height: auto;" />
 
+From that overtones/harmonics we can construct our 11 tones we have today between an octave. But if you would be a real nerd and do the math, you would notice, that if they match every 15th zero point, the ration is 15/16, but we have 11 tones within one octave, that means if they would be equidistant it needs to be 11/12. And that exactly is the problem, what we faced for hundereds of years. If you really want to play clean your instrument can only play in one key, because for each key the same tones have to be different. And that's another simplification we made, we made the the tones eqidistant, that means none of the keys is really in tune, but all of them are out of tune the same amount. 15/16 to 11/12 sounds a lot, but it actually isn't and our earch have gotten used to it. That simplification was invented in 1584 by a chinese mathematican Zhu Zaiyu, was made popular around 1700 by Johann Sebastian Bach with it's well tempared piano and got standard around 1900.
+
+With this simplification we get someting cool, because we can ust use the fift and repeat it to get around each of the 11 tones and after that it repeats. A -> E -> B -> F# -> C# -> G# -> Eb -> Bb -> F -> C -> G -> D -> A. Which is called the famous circle of fifts.
+
+<img src="./circle-of-fifths-simple.svg" style="width: 50%; height: auto;" />
+
 ## Chapter 1 Scales
 
 ## Chapter 2 Chords
