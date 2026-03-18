@@ -13,12 +13,12 @@
     <text x="720" y="400" font-size="22" text-anchor="middle" dominant-baseline="middle" font-weight="700">A</text>
     <text x="677.1" y="560" font-size="22" text-anchor="middle" dominant-baseline="middle" font-weight="700">E</text>
     <text x="560" y="677.1" font-size="22" text-anchor="middle" dominant-baseline="middle" font-weight="700">B</text>
-    <text x="400" y="720" font-size="22" text-anchor="middle" dominant-baseline="middle" font-weight="700">F#</text>
-    <text x="240" y="677.1" font-size="18" text-anchor="middle" dominant-baseline="middle" font-weight="700">Db</text>
-    <text x="122.9" y="560" font-size="18" text-anchor="middle" dominant-baseline="middle" font-weight="700">Ab</text>
-    <text x="80" y="400" font-size="18" text-anchor="middle" dominant-baseline="middle" font-weight="700">Eb</text>
-    <text x="122.9" y="240" font-size="18" text-anchor="middle" dominant-baseline="middle" font-weight="700">Bb</text>
-    <text x="240" y="123" font-size="18" text-anchor="middle" dominant-baseline="middle" font-weight="700">F</text>
+    <text x="400" y="720" font-size="22" text-anchor="middle" dominant-baseline="middle" font-weight="700">F# / Gb</text>
+    <text x="240" y="677.1" font-size="22" text-anchor="middle" dominant-baseline="middle" font-weight="700">Db</text>
+    <text x="122.9" y="560" font-size="22" text-anchor="middle" dominant-baseline="middle" font-weight="700">Ab</text>
+    <text x="80" y="400" font-size="22" text-anchor="middle" dominant-baseline="middle" font-weight="700">Eb</text>
+    <text x="122.9" y="240" font-size="22" text-anchor="middle" dominant-baseline="middle" font-weight="700">Bb</text>
+    <text x="240" y="123" font-size="22" text-anchor="middle" dominant-baseline="middle" font-weight="700">F</text>
   </g>
 </svg>
 
