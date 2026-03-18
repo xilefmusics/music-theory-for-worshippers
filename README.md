@@ -87,6 +87,9 @@ That's exactly how many people think, but it's not random, it's designed into th
 Isn't it so that if I play the same tone on each of these instruments they have the exact same frequency?
 And I even can play them with the same intensity, so they have the same volume?
 That's right, but why do they sound different?
+
+### Overtones or Harmonics
+ 
 The answer is that a frequency almost never comes alone, it has some other frequencies that belong to it, that are backed into physics.
 These are called harmonics or overtones.
 So if you play a tone on any instrument, not only the base frequency of this tone is produced, but also an infinite amount of higher frequencies is produced, and the intensity of these higher frequencies defines the color of the tone.
