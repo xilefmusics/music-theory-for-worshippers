@@ -43,6 +43,36 @@ So let's get started.
 
 ## Chapter 0 Technical Background
 
+Ever wondered why music theory is how it is, what a tone is and why we have eleven of them? 
+No? - That's completely fine. Feel free to skip this chapter and start with the real stuff.
+But if you're interested and have a few minutes I encurage you to read throug it. You don't
+have to rememer everything or even completely understand everything. but within the technical
+background how music works there is so much beauty god put in, that we can discover, even though
+we only scratch the surface. The theory how music works is nothing we have created, but we have
+discovered it. It's beauty baken into the core physics of our world, wonderfully crafted.
+And we can use it to take pleasure ourselfs in it and praise god with it.
+
+So what is a tone? It's like everything that is, it's a wave. Something that moves back and forth. 
+For example if you pull on a string on your guitar, or press a key on the piano, a string moves back and forth.
+That string moves the air back and forth until it reaches your ear, then some parts in your ear move back and forth
+and your brain translates it to something that we call a sound, we can hear. Isn't that stunning? And there are two dimensions
+to it. How strong or wide it moves, which defines how intense how loud the sound is and how fast it moves, that defines how 
+low or hig the sound is. That's why when you pull hard on the string it becomes louder and if you make the string shorter, or if you tighten the string more, it moves faster and therefore becomes higher. 
+
+In music theory we only focus on the second dimension, how high it is. And in physics we mesure it by how often it moves back and forth per second. For example if you pull your second string on the guitar, the A string, it moves back and forth 220 times per second and we call the frequency 220 Hz (hearts). So we have indefinetely many tones we can technically produce, everything from 0 Hz to ininity. But not everything we can hear. The default person can heary everything between 20 Hz and 20k Hz. The range of a 88 key piano goes from 27,5 Hz up to 4.19k Hz. A guitar is much more limited, it goes from 82.4 Hz up to 1.39k Hz. But still in each of this ranges there are a infinite number of tones, because you can put as manny digits after the period if you want, but at some point we are no longer able to distinguishe it.
+
+But with such a rational scale it's pretty hard to do theory with. It's hard enough to do theory with the 11 different tones we have, but it's impossible to do it with an infinite amount. So we just randomly pick 11 frequencies and define that this are our tones? - That's exactly how many people think, but it's not random, it's designed into the core of physics and to understand that, we have to look into, why does a guitar sound differen than a piano, that sound different than a trunpet, that sound differen than a violine? Isn't it so, that if I play the same tone on each of these instruments they have the exact same frequency? And I even can play them with the same intensity, so they have the same volume? That's right, but why do they sound different? The answer is, that a frequency almost never comes alone, it has some other frequencies that belong to it, that are backed into physics. These are called harmonics or overtones. So if you play a tone on any instrument, not only the base frequency of this tone is produced, but an infinite amount of higher frequencies and the intensity of this higher frequencies defines the color of the tone. And that's why different instruments sound differnt, they have a different color, because their overtones are different.
+
+### Perfect Fifth (3/2)
+`440 Hz` together with `660 Hz` (a perfect fifth). The red circles show where both waves hit `0` at the same time.
+
+![](./fifth.svg)
+
+### Octave (2/1)
+`440 Hz` together with `880 Hz` (an octave). The red circles show where both waves hit `0` at the same time.
+
+![](./octave.svg)
+
 ## Chapter 1 Scales
 
 ## Chapter 2 Chords
@@ -56,3 +86,5 @@ So let's get started.
 ## Chapter 6 Chord Progressions
 
 ## Chapter 7 Crazy Chords
+
+## Chapter 8 Experimenting with Context
