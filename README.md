@@ -122,8 +122,7 @@ It's so boring that we even consider it the same tone in music theory.
 That's why on your piano every white key before the two black keys is called C, even though it is a different tone.
 The span between these two frequencies is what we call an octave.
 And now we notice the first simplification we make in music theory.
-If we consider every octave to a tone the same.
-So, we only have to focus on one octave, because after that everything is just repeating.
+If we consider every octave to a tone the same, we only have to focus on one octave, because after that everything is just repeating.
 
 But now we want some color, but the least amount of it.
 The next simple ratio we meet is 3:2, which corresponds to a perfect fifth.
