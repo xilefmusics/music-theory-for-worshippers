@@ -158,10 +158,10 @@ Which is called the famous circle of fifths.
 
 ### Some Takeaways
 
-Now we know why we have our twelve tones (pitch classes) per octave in the modern system.
-And the key takeaways are that we have twelve equidistant tones (officially called semitones) that do fill one octave and do repeat afterwards.
-They themselves have some color by the fact that they do have overtones/harmonics.
-And we can use the physics of musical color God created deeply into physics to create color and therefore beauty with it.
+We now understand the foundation of our modern twelve-tone system.
+The key takeaway is that these twelve equidistant semitones fill an octave and repeat indefinitely.
+Each tone possesses its own unique character shaped by natural overtones and harmonics.
+By leaning into this God-given physics of sound, we can harness musical color to create genuine beauty.
 
 ## Chapter 1 Scales
 
