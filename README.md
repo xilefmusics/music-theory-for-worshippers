@@ -93,22 +93,13 @@ So if you play a tone on any instrument, not only the base frequency of this ton
 Listen to how those overtones show up as different "colors" in practice:
 
 **Sine wave (pure tone)**
-<audio controls preload="none">
-  <source src="https://raw.githubusercontent.com/xilefmusics/music-theory-for-worshippers/main/sine.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+([sine.wav](./sine.wav))
 
 **Piano tone**
-<audio controls preload="none">
-  <source src="https://raw.githubusercontent.com/xilefmusics/music-theory-for-worshippers/main/piano.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+([piano.wav](./piano.wav))
 
 **Guitar tone**
-<audio controls preload="none">
-  <source src="https://raw.githubusercontent.com/xilefmusics/music-theory-for-worshippers/main/guitar.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+([guitar.wav](./guitar.wav))
 
 And that's why different instruments sound different, they have a different color, because their overtones are different.
 And the same effect which gives the tone itself color through the overtones is the effect we use in music theory to combine tones to create color.
