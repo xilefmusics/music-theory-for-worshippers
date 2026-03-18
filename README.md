@@ -37,13 +37,13 @@ You probably saw chords like `F#m7add11` and thought what the heck, I'm not play
 If you follow this course, you will and you won't even notice.
 I will introduce you to contextualized chords, where you don't have to think of any extensions, I mean that `7add11` stuff, because it will arise naturally without any thinking.
 You will play nice chords and sound like a pro with much more depth and color and fullness within your chords and playing and it will get simpler as well.
-I know this sounds too good to be true, but it enabled even me to play the guitar—and I'm not that good at bending my fingers.
+I know this sounds too good to be true, but it enabled even me to play the guitar, and I'm not that good at bending my fingers.
 And it helped me to play without much mental effort so you can fully focus on worshipping.
 So let's get started.
 
 ## Chapter 0 Technical Background
 
-Ever wondered why music theory is how it is, what a tone is and why we have eleven of them?
+Ever wondered why music theory is how it is, what a tone is and why we have twelve of them (twelve equal steps per octave)?
 No?
 That's completely fine.
 Feel free to skip this chapter and start with the real stuff.
@@ -70,10 +70,10 @@ That's why when you pull hard on the string it becomes louder and if you make th
 
 In music theory we only focus on the second dimension, how high it is.
 And in physics we measure it by how often it moves back and forth per second.
-For example if you pull your second string on the guitar, the A string, it moves back and forth 220 times per second and we call the frequency 220 Hz (hearts).
+For example if you pull your second string on the guitar, the A string, it vibrates about 110 times per second in standard tuning, and we call the frequency 110 Hz.
 So we have indefinitely many tones we can technically produce, everything from 0 Hz to infinity.
 But not everything we can hear.
-The default person can hear everything between 20 Hz and 20k Hz.
+Most people can hear roughly between 20 Hz and 20 kHz (it varies with age and the individual).
 The range of a 88 key piano goes from 27,5 Hz up to 4.19k Hz.
 A guitar is much more limited, it goes from 82.4 Hz up to 1.39k Hz.
 But still in each of these ranges there is an infinite number of tones, because you can put as many digits after the period if you want, but at some point we are no longer able to distinguish it.
@@ -81,8 +81,8 @@ But still in each of these ranges there is an infinite number of tones, because 
 ### Making the continuous scale discrete
 
 But with such a continuous scale it's pretty hard to do theory with.
-It's hard enough to do theory with the 11 different tones we have, but it's impossible to do it with an infinite amount.
-So we just randomly pick 11 frequencies and define that this are our tones?
+It's hard enough to do theory with the twelve equal pitch steps we use in modern music, but it's impossible to do it with an infinite amount.
+So we just randomly pick twelve frequencies and define that this are our tones?
 That's exactly how many people think, but it's not random, it's designed into the core of physics, and to understand that we have to look into why a guitar sounds different than a piano, why a trumpet sounds different than a violin?
 Isn't it so that if I play the same tone on each of these instruments they have the exact same frequency?
 And I even can play them with the same intensity, so they have the same volume?
@@ -121,41 +121,42 @@ The span between these two frequencies is what we call an octave.
 And now we notice the first simplification we make in music theory.
 If we consider every octave to a tone the same, we only have to focus on one octave, because after that everything is just repeating.
 
-But now we want some color, but the least amount of it, and that we achieve when not every zero point aligns, but every second one.
-And this exactly is what the second overtone/harmonic is, and you can see it within the next picture.
+But now we want some color, but the least amount of it.
+The next simple ratio we meet is 3:2, which corresponds to a perfect fifth.
+When you compare the waves for those two frequencies, the zero-crossings line up fairly often, but not as perfectly as in the octave, so it still sounds relatively pure.
+And you can see it within the next picture.
 
 <img src="./fifth.svg" style="width: 100%; height: auto;" />
 
-This interval we call a fifth; it's the one that provides the least possible amount of color and therefore sounds really pure.
-(For the ultimate nerds under us, yeah I know that the second harmonic isn't a fifth to the root frequency, but rather to the first harmonic, but since we consider octaves as the same tone, it doesn't matter :)).
+This interval we call a fifth.
+(For the ultimate nerds under us: it comes from comparing harmonics, but since we treat octaves as the same tone, you hear it as a fifth relative to the root :)).
 
-We could go on like this forever and discover all 11 notes we have, but since you are probably already bored and I don't want to waste your time, we stop here; you see the pattern.
+We could go on like this forever and discover the whole family of simple intervals, but since you are probably already bored and I don't want to waste your time, we stop here; you see the pattern.
 The interval with the sharpest color we know is the small second.
-There, every 15th zero point matches.
+In the "pure" model this corresponds to the frequency ratio 16:15 (a minor second), which is exactly what the picture shows.
 
 <img src="./second.svg" style="width: 100%; height: auto;" />
 
 ### The second simplification: Equidistant Semitones
 
-From those overtones/harmonics we can construct our 11 tones we have today between an octave.
-But if you would be a real nerd and do the math, you would notice that if they match every 15th zero point, the ratio is 15/16; but we have 11 tones within one octave, that means if they would be equidistant it needs to be 11/12.
-And that exactly is the problem, what we faced for hundreds of years.
-If you really want to play clean, your instrument can only play in one key, because for each key the same tones have to be different.
-And that's another simplification we made: we made the tones equidistant, that means none of the keys is really in tune, but all of them are out of tune the same amount.
-15/16 to 11/12 sounds a lot, but it actually isn't and our ears have gotten used to it.
-That simplification was invented in 1584 by a Chinese mathematician Zhu Zaiyu, was made popular around 1700 by Johann Sebastian Bach with its well tempered piano and got standard around 1900.
+From those overtones/harmonics we can build a picture of "pure" intervals like octaves (2:1), perfect fifths (3:2), and the small second (16:15).
+But here's the problem: if you want those simple ratios, you can't also make every key perfectly work at the same time.
 
-### Circle of Fifths
+So we make another simplification: we divide the octave into twelve equal steps (semitones).
+In 12-tone equal temperament, each semitone step has the frequency ratio 2^(1/12) (about 1.05946).
+That means the "minor second" is close to 16:15, but not exact, so no key is perfectly in tune, yet all keys are equally usable.
 
-With this simplification we get something cool, because we can just use the fifth and repeat it to get around each of the 11 tones, and after that it repeats.
+### The Circle of Fifths
+
+With this simplification we get something cool, because we can just use the fifth and repeat it to get around each of the 12 pitch classes, and after that it repeats.
 Which is called the famous circle of fifths.
 
 <img src="./circle-of-fifths-simple.svg" style="width: 50%; height: auto;" />
 
-### Takeaways
+### Some Takeaways
 
-Now we know why we have our 11 tones.
-And the key takeaways are that we have 11 equidistant tones (officially called semitones) that do fill one octave and do repeat afterwards.
+Now we know why we have our twelve tones (pitch classes) per octave in the modern system.
+And the key takeaways are that we have twelve equidistant tones (officially called semitones) that do fill one octave and do repeat afterwards.
 They themselves have some color by the fact that they do have overtones/harmonics.
 And we can use the physics of musical color God created deeply into physics to create color and therefore beauty with it.
 
