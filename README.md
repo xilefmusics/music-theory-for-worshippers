@@ -43,25 +43,25 @@ So let's get started.
 
 ## Chapter 0 Technical Background
 
-Ever wondered why music theory is how it is, what a tone is and why we have eleven of them? 
+Ever wondered why music theory is how it is, what a tone is and why we have eleven of them?
 No?
 That's completely fine.
 Feel free to skip this chapter and start with the real stuff.
-But if you're interested and have a few minutes I encurage you to read throug it.
+But if you're interested and have a few minutes I encourage you to read through it.
 You don't have to remember everything or even completely understand everything.
-But within the technical background how music works there is so much beauty god put in, that we can discover, even though we only scratch the surface.
+But within the technical background of how music works there is so much beauty God put in, that we can discover, even though we only scratch the surface.
 The theory how music works is nothing we have created, but we have discovered it.
 It's beauty baked into the core physics of our world, wonderfully crafted.
-And we can use it to take pleasure ourselves in it and praise god with it.
+And we can use it to take pleasure in it and praise god with it.
 
 So what is a tone?
 It's like everything that is, it's a wave.
 Something that moves back and forth.
 For example if you pull on a string on your guitar, or press a key on the piano, a string moves back and forth.
-That string moves the air back and forth until it reaches your ear, then some parts in your ear move back and forth and your brain translates it to something that we call a sound, we can hear.
+That string moves the air back and forth until it reaches your ear, then some parts in your ear move back and forth, and your brain translates it to something that we call a sound we can hear.
 Isn't that stunning?
 And there are two dimensions to it.
-How strong or wide it moves, which defines how intense how loud the sound is and how fast it moves, that defines how low or hig the sound is.
+How strong or wide it moves, which defines how intense and how loud the sound is, and how fast it moves, which defines how low or high the sound is.
 That's why when you pull hard on the string it becomes louder and if you make the string shorter, or if you tighten the string more, it moves faster and therefore becomes higher.
 
 In music theory we only focus on the second dimension, how high it is.
@@ -72,67 +72,67 @@ But not everything we can hear.
 The default person can hear everything between 20 Hz and 20k Hz.
 The range of a 88 key piano goes from 27,5 Hz up to 4.19k Hz.
 A guitar is much more limited, it goes from 82.4 Hz up to 1.39k Hz.
-But still in each of this ranges there are a infinite number of tones, because you can put as many digits after the period if you want, but at some point we are no longer able to distinguish it.
+But still in each of these ranges there is an infinite number of tones, because you can put as many digits after the period if you want, but at some point we are no longer able to distinguish it.
 
 But with such a rational scale it's pretty hard to do theory with.
 It's hard enough to do theory with the 11 different tones we have, but it's impossible to do it with an infinite amount.
 So we just randomly pick 11 frequencies and define that this are our tones?
-That's exactly how many people think, but it's not random, it's designed into the core of physics and to understand that, we have to look into, why does a guitar sound different than a piano, that sound different than a trumpet, that sound different than a violin?
-Isn't it so, that if I play the same tone on each of these instruments they have the exact same frequency?
+That's exactly how many people think, but it's not random, it's designed into the core of physics, and to understand that we have to look into why a guitar sounds different than a piano, why a trumpet sounds different than a violin?
+Isn't it so that if I play the same tone on each of these instruments they have the exact same frequency?
 And I even can play them with the same intensity, so they have the same volume?
 That's right, but why do they sound different?
-The answer is, that a frequency almost never comes alone, it has some other frequencies that belong to it, that are backed into physics.
+The answer is that a frequency almost never comes alone, it has some other frequencies that belong to it, that are backed into physics.
 These are called harmonics or overtones.
-So if you play a tone on any instrument, not only the base frequency of this tone is produced, but an infinite amount of higher frequencies and the intensity of this higher frequencies defines the color of the tone.
+So if you play a tone on any instrument, not only the base frequency of this tone is produced, but also an infinite amount of higher frequencies is produced, and the intensity of these higher frequencies defines the color of the tone.
 And that's why different instruments sound different, they have a different color, because their overtones are different.
 And the same effect which gives the tone itself color through the overtones is the effect we use in music theory to combine tones to create color.
-So we have to understand the overtones and what creates the color, to make color ourselves.
-I know now it get's really nerdy and I hope that you are still with me.
+So we have to understand the overtones and what creates the color, to create color ourselves.
+I know now it gets really nerdy and I hope that you are still with me.
 
 The first overtone/harmonic has just double the frequency.
 You can see it within the following picture.
 
 <img src="./octave.svg" style="width: 100%; height: auto;" />
 
-And brings color are the points where the waves don't align.
+It's the points where the waves don't align that bring color.
 If you have double the frequency, they do align on every zero point of the base frequency, that is boring, that is almost no color.
 It's so boring that we even consider it the same tone in music theory.
 That's why on your piano every white key before the two black keys is called C, even though it is a different tone.
-The span between these two frequencies we call an octave.
+The span between these two frequencies is what we call an octave.
 And now we notice the first simplification we make in music theory.
 If we consider every octave to a tone the same, we only have to focus on one octave, because after that everything is just repeating.
 
-But now we want some color, but the least amount of it and that we achieve if not very zero point they do align, but every second one.
-And this exactly is what the second overtone/harmonic is and you can see it within the next picture.
+But now we want some color, but the least amount of it, and that we achieve when not every zero point aligns, but every second one.
+And this exactly is what the second overtone/harmonic is, and you can see it within the next picture.
 
 <img src="./fifth.svg" style="width: 100%; height: auto;" />
 
-This interval we call a fifth, it's the one that provides the least possible amount of color and therefore sounds really pure.
-(For the ultimate nerds under us, yeah I know that the second harmonic in not a fifth to the root frequency, but rather to the first harmonic, but since we consider octaves as the same tone, it doesn't matter :)).
+This interval we call a fifth; it's the one that provides the least possible amount of color and therefore sounds really pure.
+(For the ultimate nerds under us, yeah I know that the second harmonic isn't a fifth to the root frequency, but rather to the first harmonic, but since we consider octaves as the same tone, it doesn't matter :)).
 
-We could go this along forever and discover all 11 notes we have, but since you are probably already bored and I don't want to waste your time we stop here, you see the pattern.
+We could go on like this forever and discover all 11 notes we have, but since you are probably already bored and I don't want to waste your time, we stop here; you see the pattern.
 The interval with the sharpest color we know is the small second.
-There every 15th zero point matches.
+There, every 15th zero point matches.
 
 <img src="./second.svg" style="width: 100%; height: auto;" />
 
-From that overtones/harmonics we can construct our 11 tones we have today between an octave.
-But if you would be a real nerd and do the math, you would notice, that if they match every 15th zero point, the ration is 15/16, but we have 11 tones within one octave, that means if they would be equidistant it needs to be 11/12.
+From those overtones/harmonics we can construct our 11 tones we have today between an octave.
+But if you would be a real nerd and do the math, you would notice that if they match every 15th zero point, the ratio is 15/16; but we have 11 tones within one octave, that means if they would be equidistant it needs to be 11/12.
 And that exactly is the problem, what we faced for hundreds of years.
-If you really want to play clean your instrument can only play in one key, because for each key the same tones have to be different.
-And that's another simplification we made, we made the the tones equidistant, that means none of the keys is really in tune, but all of them are out of tune the same amount.
+If you really want to play clean, your instrument can only play in one key, because for each key the same tones have to be different.
+And that's another simplification we made: we made the tones equidistant, that means none of the keys is really in tune, but all of them are out of tune the same amount.
 15/16 to 11/12 sounds a lot, but it actually isn't and our ears have gotten used to it.
-That simplification was invented in 1584 by a chinese mathematician Zhu Zaiyu, was made popular around 1700 by Johann Sebastian Bach with it's well tempered piano and got standard around 1900.
+That simplification was invented in 1584 by a Chinese mathematician Zhu Zaiyu, was made popular around 1700 by Johann Sebastian Bach with its well tempered piano and got standard around 1900.
 
-With this simplification we get something cool, because we can just use the fifth and repeat it to get around each of the 11 tones and after that it repeats.
+With this simplification we get something cool, because we can just use the fifth and repeat it to get around each of the 11 tones, and after that it repeats.
 Which is called the famous circle of fifths.
 
 <img src="./circle-of-fifths-simple.svg" style="width: 50%; height: auto;" />
 
 Now we know why we have our 11 tones.
-And the key takeaways are, that we have that 11 equidistant tones (officially called semitones), that do fill one octave and do repeat afterwards.
+And the key takeaways are that we have 11 equidistant tones (officially called semitones) that do fill one octave and do repeat afterwards.
 They themselves have some color by the fact that they do have overtones/harmonics.
-And we can use the physics of musical color god created deeply into physics, to create color and therefore beauty with it.
+And we can use the physics of musical color God created deeply into physics to create color and therefore beauty with it.
 
 ## Chapter 1 Scales
 
