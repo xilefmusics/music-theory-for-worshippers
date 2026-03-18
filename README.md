@@ -66,12 +66,12 @@ But with such a rational scale it's pretty hard to do theory with. It's hard eno
 ### Perfect Fifth (3/2)
 `440 Hz` together with `660 Hz` (a perfect fifth). The red circles show where both waves hit `0` at the same time.
 
-![](./fifth.svg)
+<img src="./fifth.svg" style="width: 100%; height: auto;" />
 
 ### Octave (2/1)
 `440 Hz` together with `880 Hz` (an octave). The red circles show where both waves hit `0` at the same time.
 
-![](./octave.svg)
+<img src="./octave.svg" style="width: 100%; height: auto;" />
 
 ## Chapter 1 Scales
 
