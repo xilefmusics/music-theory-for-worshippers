@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="133 -15.5 249 355.5" width="249" height="355.5" role="img" aria-label="Guitar fretboard diagram, G major, degree 6m, E minor, fingering 0-2-2-0-3-3">
+  <rect x="133" y="-15.5" width="249" height="355.5" fill="#ffffff" rx="16" ry="16"/>
+  <defs>
+    <style>
+      .bg { fill: #ffffff; }
+      .board { fill: none; stroke: none; }
+      .fret { stroke: #1f1f1f; stroke-width: 4; }
+      .nut { stroke: #000000; stroke-width: 12; }
+      .string { stroke: #111111; stroke-linecap: round; }
+      .marker { fill: #9ca3af; opacity: 0.9; }
+      .chord-vi { fill: #a855f7; stroke: #6d28d9; stroke-width: 2; } /* 6m (vi) */
+      .chord-dot-45 { fill: #4b5563; stroke: #374151; stroke-width: 2; }
+      .degree-label { font: 700 22px Arial, Helvetica, sans-serif; text-anchor: middle; }
+      .degree-vim { fill: #6d28d9; }
+      .finger-label { fill: #ffffff; font: 700 11px Arial, Helvetica, sans-serif; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }
+    </style>
+  </defs>
+
+  <!-- 90 deg clockwise; translate re-centers ink in viewBox (rotate pivot vs card) -->
+  <g transform="translate(12.5, 0)">
+  <g transform="rotate(90, 255, 172.5)">
+  <rect class="bg" x="95" y="58" width="320" height="245" rx="16"/>
+
+  <rect class="board" x="110" y="70" width="300" height="220"/>
+
+  <!-- Frets 0-3 (nut + three wires; same spacing as 01-1-Shape) -->
+  <line class="nut" x1="130" y1="93" x2="130" y2="272"/>
+  <line class="fret" x1="220" y1="95" x2="220" y2="270"/>
+  <line class="fret" x1="310" y1="95" x2="310" y2="270"/>
+  <line class="fret" x1="400" y1="95" x2="400" y2="270"/>
+
+  <!-- Strings (high e to low E) -->
+  <line class="string" x1="130" y1="95"  x2="400" y2="95"  style="stroke-width:4"/>
+  <line class="string" x1="130" y1="130" x2="400" y2="130" style="stroke-width:4"/>
+  <line class="string" x1="130" y1="165" x2="400" y2="165" style="stroke-width:4"/>
+  <line class="string" x1="130" y1="200" x2="400" y2="200" style="stroke-width:4"/>
+  <line class="string" x1="130" y1="235" x2="400" y2="235" style="stroke-width:4"/>
+  <line class="string" x1="130" y1="270" x2="400" y2="270" style="stroke-width:4"/>
+
+  <!-- 3rd-fret inlay (matches full fretboard look) -->
+  <circle class="marker" cx="355" cy="182" r="13"/>
+
+  <!-- 0-2-2-0-3-3 Em7: open 6th E (root), index A2 middle D2, open G, ring B3 and pinky e3 (same 4+5 as other G family) -->
+  <circle class="chord-vi" cx="265" cy="235" r="12"/>
+  <text class="finger-label" x="265" y="235" transform="rotate(-90, 265, 235)">1</text>
+  <circle class="chord-vi" cx="265" cy="200" r="12"/>
+  <text class="finger-label" x="265" y="200" transform="rotate(-90, 265, 200)">2</text>
+  <circle class="chord-dot-45" cx="355" cy="95" r="12"/>
+  <text class="finger-label" x="355" y="95" transform="rotate(-90, 355, 95)">5</text>
+  <circle class="chord-dot-45" cx="355" cy="130" r="12"/>
+  <text class="finger-label" x="355" y="130" transform="rotate(-90, 355, 130)">4</text>
+
+  </g>
+  </g>
+
+  <!-- Degree 6m: vi in G (E minor) -->
+  <text class="degree-label degree-vim" x="257.5" y="10">6m</text>
+</svg>
